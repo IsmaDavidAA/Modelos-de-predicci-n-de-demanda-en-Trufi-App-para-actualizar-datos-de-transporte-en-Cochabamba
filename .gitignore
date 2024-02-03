@@ -1,0 +1,9 @@
+Datos/*
+.ipynb_checkpoints/*
+Prediccion/*
+*.jar
+*.obj
+*.zip
+*.pbf
+*.csv
+*.ipynb
